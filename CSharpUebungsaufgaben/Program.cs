@@ -11,7 +11,7 @@ namespace CSharpUebungsaufgaben
             {
                 Console.WriteLine("==== Lösungen zu den C Übungsaufgaben ====");
                 Console.WriteLine("1: Überladung");
-                var input = Console.Read
+                var input = Console.ReadKey();
             }
 
         }
